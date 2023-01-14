@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #b2c5f0;
+  margin:15px;
+}
+
+header {
+  color: #19c4e6;
+  padding: 2px 10px 12px 8px;
+  margin-left: 30px;
+  margin-right:30px;
+  margin-bottom: 12px;
+  border: 10px double #164dbb;
+  background: #98fbe7;
+  text-shadow: 5px 3px 3px #737373;
+  border-radius: 8px;
+  text-align: center;
+  font-family: 'Lobster Two', cursive;
+  border-style: solid double solid;
+}
+
+.entries{
+
+  
+}
+
+.entries > h2 {
+  font-family: 'Chelsea Market', cursive;
+  color: #09dc09;
+}
+
+.entries {
+  padding: 2px 10px 12px 12px;
+  margin-left: 30px;
+  margin-right:30px;
+  margin-bottom: 12px;
+  border: 10px inset #166079;
+  border-radius: 12px;
+  background: #c0f207;
+  border-style: double inset;
+}
+
+p {
+  font-family: 'Tillana', cursive;
+  color: #238e90;
+}
+
+
+
+button {
+  padding: 2px 10px 3px 8px;
+  margin-left: 30px;
+  margin-right:30px;
+  margin-bottom: 12px;
+  border: 10px ridge #98e2fb;
+  border-radius: 10px;
+  background: #000000;
+  color: #04f7fb;
+  font-family: 'Yeon Sung', cursive;
+}
+
+
+footer { font-family: Lucida Handwriting;
+  background-color: #000000;
+  color:#0ce5e9;
+  align-content: center;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-weight: 400;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 30px;
+  border-style: dashed;
+}
+
+img {
+  border: 2px ridge #0a0a0a;
+  border-radius: 10px;
+  
+}
+
+#Wilderness {
+  visibility: hidden;
+}
+
+#Emu {
+  visibility: hidden;
+}
+
+#Quarantine {
+  visibility: hidden;
+}
